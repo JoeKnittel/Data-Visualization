@@ -1,2 +1,12 @@
 # JavaScript
-Data Visualization Experiments Using D3.js (2021)
+## Data Visualization Experiments Using D3.js 
+
+*This project was completed in my spare time as a fun coding experiment.*
+
+
+
+<hr>
+
+### Online Collection: <a href = "https://observablehq.com/@joeknittel">https://observablehq.com/@joeknittel</a>
+
+<hr>
