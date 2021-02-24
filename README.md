@@ -1,5 +1,5 @@
 # JavaScript
-## Data Visualization Experiments Using D3.js 
+## Data Visualization Experiments.js 
 
 *This project was completed in my spare time as a fun coding experiment.*
 
