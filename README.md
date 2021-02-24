@@ -1,5 +1,5 @@
 # JavaScript
-## Data Visualization Experiments.js 
+## Data Visualization Experiments
 
 *This project was completed in my spare time as a fun coding experiment.*
 
