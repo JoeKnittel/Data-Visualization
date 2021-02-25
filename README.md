@@ -1,8 +1,6 @@
 # Data-Visualization
 ## Experiments With D3.js
 
-*This project was completed in my spare time as a fun coding experiment.*
-
 
 
 <hr>
